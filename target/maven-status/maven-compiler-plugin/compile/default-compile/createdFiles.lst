@@ -1,0 +1,5 @@
+com\agrotech\routes\FieldControlRoute.class
+com\agrotech\App.class
+com\agrotech\model\SensorLectura.class
+com\agrotech\routes\AgroAnalyzerRoute.class
+com\agrotech\routes\SensDataRoute.class
